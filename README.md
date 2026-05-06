@@ -70,7 +70,7 @@ This assistant can recognize voice commands, respond using speech, and perform t
    → Executes tasks
    → Responds via voice
 
-## 🎤 Example Commands
+🎤 Example Commands
 "Open YouTube"
 "Search Wikipedia for Artificial Intelligence"
 "What is the time"
