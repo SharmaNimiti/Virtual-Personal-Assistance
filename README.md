@@ -69,3 +69,11 @@ This assistant can recognize voice commands, respond using speech, and perform t
    → Listens to commands
    → Executes tasks
    → Responds via voice
+
+## 🎤 Example Commands
+"Open YouTube"
+"Search Wikipedia for Artificial Intelligence"
+"What is the time"
+"Open Google"
+"Take a photo"
+"Send email"
